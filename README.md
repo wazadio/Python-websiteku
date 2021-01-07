@@ -16,8 +16,9 @@ $ pip install django
 ```
 5. jalankan web nya
 ```bash
-$ python tstweb/manage.py runserver
+$ python Python-websiteku/manage.py runserver
 ```
 akan keluar url di terminal atau cmd seperti 127.0.0.1/8000
 copy url tersebut dan masukkan ke browser
+
 6. selamat mecoba dan develop (open source)
