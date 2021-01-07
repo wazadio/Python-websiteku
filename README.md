@@ -14,7 +14,7 @@ $ source nama_nya/bin/activate
 ```bash
 $ pip install django
 ```
-5. download source codenya di https://github.com/wazadio/Python-websiteku
+5. download source codenya di https://github.com/wazadio/Python-websiteku klik tombol hijau yang bertuliskan "Code" -> Download Zip
 atau jika di komputer sudah terinstall Git, tinggal di clone saja
 ```bash
 $ git clone https://github.com/wazadio/Python-websiteku
