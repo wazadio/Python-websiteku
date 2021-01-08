@@ -21,7 +21,8 @@ $ git clone https://github.com/wazadio/Python-websiteku
 ```
 6. jalankan web nya
 ```bash
-$ python Python-websiteku/manage.py runserver
+$ cd Python-websiteku
+$ python manage.py runserver
 ```
 akan keluar url di terminal atau cmd seperti 127.0.0.1:8000
 copy url tersebut dan masukkan ke browser
