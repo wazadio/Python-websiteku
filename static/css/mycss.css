@@ -42,3 +42,27 @@
 	margin-left: 300px;
 	margin-right: 300px;
 }
+
+.daftar {
+	height: 100%;
+	background-size: cover;
+	background-image: url(/static/images/bg.jpeg);
+	
+}
+.gambar-tugas-1 {
+	height: 500px;
+	width: 300px;
+	position: fixed;
+  	bottom: 0px;
+  	right: 0px;
+  	opacity: 0.3;
+}
+
+.gambar-tugas-2 {
+	height: 500px;
+	width: 300px;
+	position: fixed;
+  	bottom: 0px;
+  	left: 0px;
+  	opacity: 0.3;
+}

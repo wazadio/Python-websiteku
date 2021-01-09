@@ -4,8 +4,15 @@ from django import forms
 
 class FormTugas(forms.Form):
 	matkul = [
-		('hafis', 'hafis'),
-		('hafizokokokokokokokok', 'hafizokokokokokokokok'),
+		('Organisasi dan Arsitektur Komputer II', 'Organisasi dan Arsitektur Komputer II'),
+		('Praktikum Organisasi dan Arsitektur Komputer II', 'Praktikum Organisasi dan Arsitektur Komputer II'),
+		('Perancangan Sistem Tertanam', 'Perancangan Sistem Tertanam'),
+		('Rekayasa Sistem Komputer', 'Rekayasa Sistem Komputer'),
+		('Keamanan Informasi', 'Keamanan Informasi'),
+		('Sistem Cerdas', 'Sistem Cerdas'),
+		('Kewirausahaan', 'Kewirausahaan'),
+		('Sistem Multimedia', 'Sistem Multimedia'),
+		('Pemrosesan Paralel', 'Pemrosesan Paralel'),
 	]
 	tahun = (2021,)
 	Jam = [("01:00","01:00"), ("02:00","02:00"), ("03:00","03:00"), ("04:00","04:00"), 
