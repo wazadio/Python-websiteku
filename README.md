@@ -14,11 +14,18 @@ $ source nama_nya/bin/activate
 ```bash
 $ pip install django
 ```
-5. jalankan web nya
+5. download source codenya di https://github.com/wazadio/Python-websiteku/archive/main.zip atau klik tombol hijau yang bertuliskan "Code" -> Download Zip
+atau jika di komputer sudah terinstall Git, tinggal di clone saja
 ```bash
-$ python Python-websiteku/manage.py runserver
+$ git clone https://github.com/wazadio/Python-websiteku
 ```
-akan keluar url di terminal atau cmd seperti 127.0.0.1/8000
+6. jalankan web nya
+```bash
+$ cd Python-websiteku
+$ python manage.py runserver
+```
+akan keluar url di terminal atau cmd seperti 127.0.0.1:8000
 copy url tersebut dan masukkan ke browser
 
-6. selamat mecoba dan develop (open source)
+7. selamat mecoba dan ditunggu kontribusi developnya (open source)
+Pull Requests are welcome
